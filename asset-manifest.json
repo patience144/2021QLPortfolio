@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/2021QLPortfolio/static/css/main.19b398eb.chunk.css",
-    "main.js": "/2021QLPortfolio/static/js/main.3c0c9ac3.chunk.js",
-    "main.js.map": "/2021QLPortfolio/static/js/main.3c0c9ac3.chunk.js.map",
+    "main.js": "/2021QLPortfolio/static/js/main.9c512582.chunk.js",
+    "main.js.map": "/2021QLPortfolio/static/js/main.9c512582.chunk.js.map",
     "runtime-main.js": "/2021QLPortfolio/static/js/runtime-main.0ca75c57.js",
     "runtime-main.js.map": "/2021QLPortfolio/static/js/runtime-main.0ca75c57.js.map",
     "static/js/2.705012f8.chunk.js": "/2021QLPortfolio/static/js/2.705012f8.chunk.js",
@@ -11,12 +11,14 @@
     "static/js/3.bf2b86a3.chunk.js.map": "/2021QLPortfolio/static/js/3.bf2b86a3.chunk.js.map",
     "index.html": "/2021QLPortfolio/index.html",
     "static/css/main.19b398eb.chunk.css.map": "/2021QLPortfolio/static/css/main.19b398eb.chunk.css.map",
-    "static/js/2.705012f8.chunk.js.LICENSE.txt": "/2021QLPortfolio/static/js/2.705012f8.chunk.js.LICENSE.txt"
+    "static/js/2.705012f8.chunk.js.LICENSE.txt": "/2021QLPortfolio/static/js/2.705012f8.chunk.js.LICENSE.txt",
+    "static/media/avatar.0e97bc83.png": "/2021QLPortfolio/static/media/avatar.0e97bc83.png",
+    "static/media/banner1.9daa0ec8.png": "/2021QLPortfolio/static/media/banner1.9daa0ec8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0ca75c57.js",
     "static/js/2.705012f8.chunk.js",
     "static/css/main.19b398eb.chunk.css",
-    "static/js/main.3c0c9ac3.chunk.js"
+    "static/js/main.9c512582.chunk.js"
   ]
 }
