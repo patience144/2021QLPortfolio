@@ -13,7 +13,7 @@ class LandingPage extends Component {
                 <img className='avatar' src={avatar} alt='avatar'></img>
 
                 <p className='about'> I am a Web Developer who is addicted to learning how to think! I have a fondness for Front-End Web Development, and I also have Back-End knowledge that I would like to continue to develope. My goal is to become apart of an amazing web development team and change the future!<br />
-                 When I was a stay at home mother, I wrote a self help book, which I am very proud of. In order to sell it, I needed an E-commerse website, but at the time I couldn't afford having one built for me, or even WIX. A family friend told me I could build my own website, and it was that moment that changed my life and lead me here today!</p>
+                 When I was a stay at home mother, I wrote a self help book, which I am very proud of. In order to sell it, I needed an E-commerse website, but at the time I couldn't afford having one built for me, or even WIX. A family friend told me I could build my own website, and it was that moment that changed my life and lead me here today!<br /> Discovering this worl has been exciting and stressfuf, but one thing is for sure, this is where I am supposed to be. I love coding, and I am a coder!</p>
             </div>
         )
     }
