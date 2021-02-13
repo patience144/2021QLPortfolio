@@ -4,7 +4,7 @@ class Contact extends Component {
     render() {
         return (
             <div id='contact'>
-                <h2 class='thx'>Thank You For Stoping By!</h2>
+                <h2 class='thx'>Thank You For Stopping By!</h2>
                 <br />
                 <h3>Feel free to reach out to me!</h3>
 
@@ -26,7 +26,7 @@ class Contact extends Component {
 				</ul>
 				{/* <p class="copyright">&copy; Untitled. Credits: <a href="https://www.linkedin.com/in/quiana-s-lee/">Quiana Lee</a></p> */}
 
-                <a href="/" className='footernav'>Back To The Top</a>
+                <a href="https://patience144.github.io/2021QLPortfolio/" className='footernav'>Back To The Top</a>
                     {/* <a href="#projects" className='footernav'>Projects</a>
                     <a href="#contact" className='footernav'>Contact</a>
                      */}
