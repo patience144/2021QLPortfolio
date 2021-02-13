@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/2021QLPortfolio/static/css/main.19b398eb.chunk.css",
-    "main.js": "/2021QLPortfolio/static/js/main.605d1d29.chunk.js",
-    "main.js.map": "/2021QLPortfolio/static/js/main.605d1d29.chunk.js.map",
+    "main.js": "/2021QLPortfolio/static/js/main.e183a147.chunk.js",
+    "main.js.map": "/2021QLPortfolio/static/js/main.e183a147.chunk.js.map",
     "runtime-main.js": "/2021QLPortfolio/static/js/runtime-main.0ca75c57.js",
     "runtime-main.js.map": "/2021QLPortfolio/static/js/runtime-main.0ca75c57.js.map",
     "static/js/2.705012f8.chunk.js": "/2021QLPortfolio/static/js/2.705012f8.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.0ca75c57.js",
     "static/js/2.705012f8.chunk.js",
     "static/css/main.19b398eb.chunk.css",
-    "static/js/main.605d1d29.chunk.js"
+    "static/js/main.e183a147.chunk.js"
   ]
 }
